@@ -11,7 +11,7 @@ conda install -c conda-forge python=3.12 ipython jupyterlab multiprocess numba x
 On a Mac you may need to also install (in addition)
 ```bash
 conda activate geodata
-conda install -c conda-forge graphviz ipycytoscape netcdf4
+conda install -c conda-forge graphviz ipycytoscape netcdf4 rioxarray
 ```
 ```
 
