@@ -1,7 +1,7 @@
 import numpy as np
 import time
 import math
-from multiprocess import cpu_count
+from multiprocessing import cpu_count
 from concurrent.futures import ProcessPoolExecutor
 
 # Verify how many CPU cores we have available
