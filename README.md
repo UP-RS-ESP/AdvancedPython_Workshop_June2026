@@ -4,7 +4,7 @@ Python workshop at the University of Potsdam: Regression, Parallelization, GPU P
 
 Please create a new conda environment 'geodata' and install the following packages (or use pip or uv) :
 ```bash
-conda create -n goedata -c conda-forge python=3.12
+conda create -n geodata -c conda-forge python=3.12
 conda activate geodata
 conda install -c conda-forge python=3.12 ipython jupyterlab multiprocessing numba xarray dask tqdm numpy statsmodels scipy gdal scikit-image scikit-learn xgboost seaborn matplotlib cartopy pandas geopandas
 ```
