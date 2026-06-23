@@ -6,6 +6,6 @@ Please create a new conda environment 'geodata' and install the following packag
 ```bash
 conda create -n geodata -c conda-forge python=3.12
 conda activate geodata
-conda install -c conda-forge python=3.12 ipython jupyterlab multiprocessing numba xarray dask tqdm numpy statsmodels scipy gdal scikit-image scikit-learn xgboost seaborn matplotlib cartopy pandas geopandas
+conda install -c conda-forge python=3.12 ipython jupyterlab multiprocess numba xarray dask tqdm numpy statsmodels scipy gdal scikit-image scikit-learn xgboost seaborn matplotlib cartopy pandas geopandas
 ```
 
