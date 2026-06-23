@@ -13,5 +13,6 @@ On a Mac you may need to also install (in addition)
 conda activate geodata
 conda install -c conda-forge graphviz ipycytoscape netcdf4 rioxarray
 ```
-```
 
+
+Adding Google to the XYZ tiles in QGIS: https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}
