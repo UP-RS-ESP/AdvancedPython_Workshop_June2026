@@ -19,6 +19,10 @@ https://www.dropbox.com/scl/fi/3exc11zfuche3c7ty3g6f/COP_10m_PunaECordillera_int
 **Hillshade Version:**
 https://www.dropbox.com/scl/fi/0bhd3gt4ais0654qgu7ku/COP_10m_PunaECordillera_int16_epsg32719_hs.tif?rlkey=09yjh599b0ibclyzkjla8off2&st=s7s1osz9&dl=0
 
+**Copernicus DEM Data for GPU Exercise (NPY):**
+https://boxup.uni-potsdam.de/s/3DT8gbfpZLgbHGH
+password: ZHn8AFq4Dey9876
+
 Pip environment for day two:
 ```bash
 $ python3 -m venv env
