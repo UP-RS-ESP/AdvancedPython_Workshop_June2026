@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>2 metre temperature trend per decade</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-0.063234364761162</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.35630821772625</MDI>
+      <MDI key="STATISTICS_MEAN">0.11681881820097</MDI>
+      <MDI key="STATISTICS_STDDEV">0.062474549301765</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">76.39</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
