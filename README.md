@@ -23,7 +23,7 @@ https://www.dropbox.com/scl/fi/0bhd3gt4ais0654qgu7ku/COP_10m_PunaECordillera_int
 https://boxup.uni-potsdam.de/s/3DT8gbfpZLgbHGH
 password: ZHn8AFq4Dey9876
 
-Pip environment for day two:
+# Pip environment for day two:
 ```bash
 $ python3 -m venv env
 $ source env/bin/activate
@@ -33,3 +33,6 @@ $ source env/bin/activate
 (env) $ pip install matplotlib
 (env) $ pip install jupyterlab
 ```
+
+# HDF file with information on Puncoviscana
+https://www.dropbox.com/scl/fi/eaxtawrvfg31i05s2cwmh/train_data_puncoviscana_north.h5?rlkey=5gg8voaxoe1h11komo17dcz7r&st=48m4vxd1&dl=0
